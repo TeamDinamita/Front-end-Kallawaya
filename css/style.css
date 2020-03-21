@@ -702,7 +702,7 @@ ul {
   display: inline-block;
   padding: 12px 44px;
   border-radius: 50px;
-  background-color: #ff4800;
+  background-color: #ffffff;
   font-size: 15px;
   font-family: "Rajdhani", sans-serif;
   font-weight: 500;
@@ -710,13 +710,13 @@ ul {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-transform: uppercase;
-  border: 2px solid #ff4800;
+  border: 2px solid #ffffff;
 }
 
 /* line 70, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_button.scss */
 .btn_2:hover {
-  color: #ff4800 !important;
-  border: 2px solid #ff4800;
+  color: #ffffff !important;
+  border: 2px solid #ee2880;
   background-color: transparent;
 }
 
@@ -5889,8 +5889,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 88, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_contact.scss */
 .form-contact .form-control {
-  border: 1px solid #f0e9ff;
-  border-radius: 5px;
+  border: 2px solid #ffffff;
+  border-radius: 7px;
   height: 48px;
   padding-left: 18px;
   font-size: 13px;
