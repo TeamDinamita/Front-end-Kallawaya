@@ -5982,7 +5982,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* line 180, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_contact.scss */
-.modal-message .modal-dialog .modal-content .modal-header h2 {
+  .modal-message .modal-dialog .modal-content .modal-header h2 {
   display: block;
   text-align: center;
   padding-bottom: 10px;
